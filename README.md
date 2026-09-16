@@ -1,4 +1,4 @@
-# 這是第一行#
+# 這是第一行
 
 1. host
 2. ens160-nmconnection
